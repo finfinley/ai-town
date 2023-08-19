@@ -82,7 +82,7 @@ export const Descriptions = [
       },
       {
         type: 'plan' as const,
-        description: 'you want to take advantage of others as much as possible.',
+        description: 'You want to take advantage of others as much as possible.',
       },
     ],
     position: { x: 6, y: 6 },
